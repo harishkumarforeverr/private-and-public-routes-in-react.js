@@ -1,0 +1,43 @@
+{
+  "user": [
+    {
+      "name": "aryan",
+      "username": "raj",
+      "email": "aryan@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "suraj",
+      "username": "suraj123",
+      "email": "suraj@gmail.com",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "name": "rakesh",
+      "username": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9579579575",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "username": "vikas123",
+      "email": "vikas@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    },
+    {
+      "name": "harish",
+      "username": "harish123",
+      "email": "harish@gmail.com",
+      "phone": "12345",
+      "id": "7c7f3aba-ea34-43af-8281-e37b888ad29e"
+    }
+  ],
+  "admin": {
+    "name": "shiva",
+    "password": "123456"
+  }
+}

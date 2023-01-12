@@ -1,0 +1,21 @@
+.logoutButton {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  button {
+    appearance: none;
+    -webkit-appearance: none;
+    margin-top: -0.21rem;
+    height: 2.4rem;
+    font-family: sans-serif;
+    cursor: pointer;
+    padding: 12px;
+    min-width: 10px;
+    border: 0px;
+    transition: background-color 100ms linear;
+    border-radius: 20px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #3498db;
+  }
+}
